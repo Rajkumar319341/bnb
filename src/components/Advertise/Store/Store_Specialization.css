@@ -1,0 +1,10 @@
+@media (max-width:1200px){
+    .specialization_form{
+        width: 340px;
+    }
+}
+@media (min-width:1200px){
+    .specialization_form{
+        width: 400px;
+    }
+}

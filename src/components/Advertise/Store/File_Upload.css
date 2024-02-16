@@ -1,0 +1,13 @@
+@media (max-width:1200px){
+    .fileupload_form{
+        width: 320px;
+    }
+    .file_input{
+        width: 300px;
+    }
+}
+@media (min-width:1200px){
+    .fileupload_form{
+        width: 400px;
+    }
+}

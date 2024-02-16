@@ -1,0 +1,54 @@
+.termsAndCondition{
+  width: 95%;
+  padding: 10px;
+  margin: 10px;
+  overflow: hidden; 
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(255, 255, 255, 0.596);
+  border-radius: 10px;
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+.carrybox {
+    padding: 8px;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.911);
+    border-radius: 20px;
+    /* padding:'10rem 10rem'; */
+    overflow: hidden;
+  }
+  .heading01 {
+    color: hsla(237deg 74% 33% / 61%);
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+  }
+  .spantag {
+    color: #333;
+    font-weight: bolder;
+    font-family: "Playfair Display", serif;
+    text-align: justify;
+  }
+  .ptagli {
+    margin-left: 10px;
+    font-family: "Playfair Display", serif;
+    margin-right: 13px;
+   
+  }
+  .ptag {
+    padding: 10px;
+    text-align:  "." center;
+    font-weight: bolder;
+    color: rgb(117, 113, 113);
+  }
+  .bold {
+    color: rgb(87, 79, 79);
+    font-size: 100%; /* Font size in percents */
+    position: relative; /* Relative positioning */
+    top: 0px; /* Move from above */
+  }
+  
+  p{
+    font-size: smaller;
+  }

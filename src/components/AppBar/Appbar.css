@@ -1,0 +1,21 @@
+.navitem {
+  margin: 2px 10px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: rgb(2, 14, 17);
+  text-decoration: none;
+  transition: color 0.3s ease; /* Smooth color transition */
+}
+
+.navitem:hover {
+  color: rgb(235, 134, 3);
+}
+
+.imagelogo {
+  margin: 0px 25px;
+}
+
+.nav-container {
+  margin: 0px 1.4rem;
+}
+
